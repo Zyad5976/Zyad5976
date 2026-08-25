@@ -14,8 +14,9 @@
 
 Fresh Mechatronics Engineering graduate with hands-on experience spanning **industrial automation** and **embedded systems development**. I enjoy working close to hardware — from PLC-driven automation lines down to bare-metal microcontroller drivers — and I'm equally comfortable building the software layer that ties it all together.
 
-- 🏭 Trained on **Siemens S7-1200** PLC programming and **Factory IO** simulation, with an internship at Siemens
-- 🔩 Embedded developer on **AVR (ATmega32)**, building layered **MCAL/HAL/APP** driver architectures from scratch
+- 🏭 PLC programming across **Siemens S7-1200, Schneider, Wecon, and Savitch**, with hands-on work on **LS and Delta AC drives**, sensors, and actuators
+- 🏗️ Designed **Factory IO** production-line simulations: color/material-based product sorting, elevator-based product transfer, and pick-and-place systems
+- 🔩 Embedded developer on **AVR (ATmega32)** and **STM32**, building layered **MCAL/HAL/APP** driver architectures from scratch
 - 📡 Implemented **Modbus RTU** (frame parsing + CRC16) over RS-485, validated with Modbus Poll and VSPE
 - 🖐️ Built a gesture-controlled car using **MPU6050** and inter-board Bluetooth communication
 - 💻 Also work across **C++/Qt** application development and **Linux administration**
@@ -25,10 +26,10 @@ Fresh Mechatronics Engineering graduate with hands-on experience spanning **indu
 ### 🛠️ Technical Skills
 
 **Embedded Systems**
-`AVR (ATmega32)` `FreeRTOS` `Embedded C` `Atmel Studio` `PlatformIO` `Proteus` `SimulIDE` `Modbus RTU` `I2C/TWI` `UART`
+`AVR (ATmega32)` `STM32` `FreeRTOS` `Embedded C/C++` `Atmel Studio` `PlatformIO` `Proteus` `SimulIDE` `Modbus RTU` `I2C/TWI` `UART`
 
 **Industrial Automation**
-`Siemens S7-1200` `TIA Portal` `Factory IO` `HMI` `Telecom fundamentals`
+`Siemens S7-1200` `Schneider` `Wecon` `Savitch` `TIA Portal` `Factory IO` `HMI` `LS & Delta AC Drives` `Sensors & Actuators` `Telecom fundamentals`
 
 **Software Development**
 `C++` `Qt` `Bash` `Linux Administration` `Computer Architecture`
@@ -44,6 +45,7 @@ Fresh Mechatronics Engineering graduate with hands-on experience spanning **indu
 |---|---|
 | **Modbus RTU Gateway** | ATmega32 Modbus RTU slave over RS-485 (MAX485), custom frame/CRC16 implementation, layered driver architecture; validated end-to-end with Modbus Poll and VSPE |
 | **Hand-Motion Controlled Car** | Two-module ATmega32 system (Car + Hand controller) using MPU6050 motion sensing and Bluetooth (HC-05) communication |
+| **Factory IO Production Lines** | PLC-driven simulations including color/material-based product sorting, elevator-based product transfer, and pick-and-place automation |
 | **Weather Forecast App** | Desktop weather app built with C++, Qt, cURL, and RapidJSON, consuming the Open-Meteo API |
 | **Task Manager (Bash)** | Command-line task management tool built with Bash scripting |
 
