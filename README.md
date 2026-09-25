@@ -43,6 +43,7 @@ Fresh Mechatronics Engineering graduate with hands-on experience spanning **indu
 
 | Project | Description |
 |---|---|
+| **Autonomous Obstacle Car** | Self-driving ATmega32 vehicle navigating via HC-SR04 ultrasonic sensor and SG90 steering servo; features strict layered architecture, Timer1 isolation, and BOD power safety stabilization |
 | **Modbus RTU Gateway** | ATmega32 Modbus RTU slave over RS-485 (MAX485), custom frame/CRC16 implementation, layered driver architecture; validated end-to-end with Modbus Poll and VSPE |
 | **Hand-Motion Controlled Car** | Two-module ATmega32 system (Car + Hand controller) using MPU6050 motion sensing and Bluetooth (HC-05) communication |
 | **Factory IO Production Lines** | PLC-driven simulations including color/material-based product sorting, elevator-based product transfer, and pick-and-place automation |
